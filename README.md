@@ -1,2 +1,3 @@
-# mustang.compiler
-Reference compiler for the mustang programming language
+# Mustang compiler
+
+Reference compiler for the *mustang* programming language
